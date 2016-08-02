@@ -19,10 +19,6 @@ class App < Thor
       end
       puts ""
     end
-    
- 
   end
- 
 end
-
 App.start ARGV
