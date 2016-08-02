@@ -43,7 +43,7 @@ In the directory which you installed the program in,
 
 ## Example
 
-It's see a simple example;
+Let's see a simple example:
 
 ```
 $ ./app eng2kor hello
@@ -51,7 +51,7 @@ hello:
   (1) 안부  (2) 안녕하세요  (3) 여보세
 ```
 
-You can also translate from Korean into English;
+You can also translate from Korean into English:
 
 ```
 $ ./app eng2kor 반응
