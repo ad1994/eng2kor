@@ -14,7 +14,7 @@ A CLI Application which translates text from English to Korean, and Vice-Versa
             |___/                          
 ```
 
-An implementation of CLI for Daum.  
+An CLI implementation for Daum Dictionary.  
 ([Daum Dictionary](http://small.dic.daum.net/), an on-line dictionary service)
 
 - - -
